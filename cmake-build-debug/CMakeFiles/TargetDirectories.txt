@@ -1,0 +1,3 @@
+/home/runzhi/repo/c_notebook/cmake-build-debug/CMakeFiles/c_notebook.dir
+/home/runzhi/repo/c_notebook/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/runzhi/repo/c_notebook/cmake-build-debug/CMakeFiles/rebuild_cache.dir

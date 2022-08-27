@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/c_notebook.dir/main.c.o CMakeFiles/c_notebook.dir/demo/more01.c.o -o c_notebook 

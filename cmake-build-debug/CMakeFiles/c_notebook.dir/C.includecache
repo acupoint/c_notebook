@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/runzhi/repo/c_notebook/algorithm/heap_sort.h
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+
+/home/runzhi/repo/c_notebook/basic/show_representations.h
+stdio.h
+-
+
+/home/runzhi/repo/c_notebook/demo/demo01.h
+
+/home/runzhi/repo/c_notebook/main.c
+stdio.h
+-
+string.h
+-
+demo/demo01.h
+/home/runzhi/repo/c_notebook/demo/demo01.h
+algorithm/heap_sort.h
+/home/runzhi/repo/c_notebook/algorithm/heap_sort.h
+basic/show_representations.h
+/home/runzhi/repo/c_notebook/basic/show_representations.h
+
